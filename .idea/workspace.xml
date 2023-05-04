@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd43daca-951c-4a7a-8db2-5c745d30aee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerJWS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ws/BanqueService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ws/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +54,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/iothm/IdeaProjects/tp_ws/capture",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -63,6 +67,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ws" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iothm\IdeaProjects\tp_ws\capture" />
     </key>
   </component>
   <component name="RunManager">
@@ -88,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683053287946</updated>
       <workItem from="1683053289738" duration="3786000" />
-      <workItem from="1683148249215" duration="3182000" />
+      <workItem from="1683148249215" duration="5115000" />
     </task>
     <servers />
   </component>
